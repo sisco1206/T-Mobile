@@ -1,1 +1,2 @@
-conflict 1
+modified code line S
+resolved code format
